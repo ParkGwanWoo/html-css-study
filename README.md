@@ -1,2 +1,2 @@
 # html-css-study
-html과 css를 공부한 내용을 정리한 repository
+HTML과 CSS를 공부하고 정리한 내용을 업로드하는 저장소입니다.
